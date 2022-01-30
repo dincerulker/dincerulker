@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![ülkerlogo](https://upload.wikimedia.org/wikipedia/commons/3/38/Ülker_logo.svg)
+
+
 ![welcomegif](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 <!--
 **dincerulker/dincerulker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
