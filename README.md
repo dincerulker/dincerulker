@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![ülkerlogo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FDosya%3A%25C3%259Clker_logo.svg&psig=AOvVaw0Hp5Qp6LYEZvTWK4JkGFaR&ust=1643634255229000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCG8fjE2fUCFQAAAAAdAAAAABAD)
-Format: ![Alt Text](url)
+![ülkerlogo](https://upload.wikimedia.org/wikipedia/commons/3/38/Ülker_logo.svg)
 <!--
 **dincerulker/dincerulker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
