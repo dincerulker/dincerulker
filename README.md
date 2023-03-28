@@ -1,6 +1,5 @@
 ![welcomegif](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 
-![ülkerlogo](https://upload.wikimedia.org/wikipedia/commons/3/38/Ülker_logo.svg)
 
 
 
